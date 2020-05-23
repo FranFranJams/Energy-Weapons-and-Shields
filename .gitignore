@@ -1,6 +1,7 @@
 bin
 build
 idea
+.idea
 *.txt
 *.srg
 *.temp
@@ -9,5 +10,5 @@ idea
 *.class
 *.md5
 *.log
-.idea
 *.xml
+
